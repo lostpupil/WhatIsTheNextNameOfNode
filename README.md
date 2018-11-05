@@ -1,7 +1,6 @@
 # WhatIsTheNextNameOfNode
 
-This is a gem which can get next name of "Node"    
-We already have 'node', 'deno' here.
+This is a gem which can get the next name of "Node". We already have 'node', 'deno' here.
 
 ## Installation
 
