@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["banana"]
   spec.email         = ["banana@eurus.cn"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{This is a gem which can get the next name of "Node". We already have 'node', 'deno' here.}
+  spec.description   = %q{This is a gem which can get the next name of "Node". We already have 'node', 'deno' here.}
+  spec.homepage      = "https://github.com/lostpupil/WhatIsTheNextNameOfNode"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
